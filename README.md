@@ -1,4 +1,4 @@
-# Ants_behavior — code accompanying the paper
+# Ants_behavior (original code for 'Ants aggregate to avoid spatially weak variation of chemical cues')
 
 This repository contains the code used to train the ant trajectory
 PINN-PDE / Mechanism_NN model on experimental data, aggregate response
