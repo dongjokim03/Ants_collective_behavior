@@ -1,6 +1,6 @@
 # Ants_collective_behavior
 
-## Code for "Ants aggregate with avoidance of weak spatial gradients of trajectory-derived cues"
+## Code for "Local aggregation and avoidance of weak spatial gradients in collective dynamics"
 
 This repository contains the code used to train the ant-trajectory
 PINN-PDE / Mechanism_NN model on experimental trajectory data, average
